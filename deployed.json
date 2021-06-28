@@ -1,0 +1,10 @@
+{
+ "SmartWords": {
+  "hardhat": {
+   "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+  },
+  "rinkeby": {
+   "address": "0x09F7EC826fbE1c8236f441EdF66bCFb054520b5f"
+  }
+ }
+}
